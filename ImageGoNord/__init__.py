@@ -8,4 +8,4 @@ __all__ = [
     "GoNord",
 ]
 # gonord version use for build process
-__version__ = "1.1.0"
+__version__ = "1.1.1"
